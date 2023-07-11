@@ -1,4 +1,4 @@
-# data_science
+# supervised_learning
 Задача: Нужно спрогнозировать, уйдёт клиент из банка в ближайшее время или нет.
 Используемые модели: 
 1) Random Forest Classifier
